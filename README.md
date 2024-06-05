@@ -11,6 +11,10 @@ O Git Flow define cinco tipos principais de branches:
 2. `develop`: Contém o código para o próximo release. É a branch onde a integração de novas funcionalidades acontece.
 3. `feature/*`: Utilizada para o desenvolvimento de novas funcionalidades.
 4. `release/*`: Utilizada para preparar o novo release. Permite correções de última hora antes de ser mesclada em `main`.
-5. `hotfix/*`: Utilizada para correções de bugs críticos em produção. São baseadas em `main`.
+5. `hotfix/*`: Utilizada para correções de bugs críticos em produção. São baseadas em `main`. 
 
+---
+# Fluxo de Trabalho GitHub Flow 
+![Fluxo de Trabalho GitHub Flow](WorkFlow_GitFlow.webp)
+---
 
